@@ -1,0 +1,6 @@
+{
+  "name": "METAPLAY",
+  "description": "Premium Streaming platform for movies, series, and live TV channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
